@@ -1,0 +1,7 @@
+{
+  "exception": {
+    "name": "InvalidAccessTokenException",
+    "message": "Invalid access token",
+    "details": "Failed to find the access token with tokenId 2591ba5f-050b-4583-94cc-170f00ee46c9"
+  }
+}
